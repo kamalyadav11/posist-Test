@@ -37,6 +37,6 @@ class GenesisNode{
 
 let kamalCoin = new GenesisNode();
 kamalCoin.addNode(new Node(1, "20/07/2017", { amount: 4 }));
-kamalCoin.addNode(new Node(2, "20/07/2017", { amount: 8 }));
+kamalCoin.addNode(new Node(2, "20/07/2017", { amount: 2 }));
 
 console.log(JSON.stringify(kamalCoin, null, 4));
