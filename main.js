@@ -38,5 +38,7 @@ class GenesisNode{
 let kamalCoin = new GenesisNode();
 kamalCoin.addNode(new Node(1, "20/07/2017", { amount: 4 }));
 kamalCoin.addNode(new Node(2, "20/07/2017", { amount: 2 }));
+/*Similarly add more nodes like this*/
+/*For now, i was only able to come up with this code only ;), I am a ReactJS and NodeJS fanboy :)*/
 
 console.log(JSON.stringify(kamalCoin, null, 4));
