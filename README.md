@@ -1,7 +1,7 @@
 # posist-Test
 ## Steps to Reproduce
 
-1. npm istall
+1. npm install
 2. Simply run "node main.js" in your terminal.
 
 /*For now, I was only able to come up with this code only ;), I am a ReactJS and NodeJS fanboy :)*/
