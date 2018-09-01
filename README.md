@@ -1,5 +1,5 @@
 # posist-Test
-##Steps to Reproduce
+## Steps to Reproduce
 
 1. npm istall
 2. Simply run "node main.js" in your terminal.
